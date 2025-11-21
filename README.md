@@ -2067,68 +2067,6 @@ MCP Inspector 是官方调试工具，用于测试 MCP 连接：
 - **公众号交流**：适合快速咨询。建议优先在相关文章下的公共留言区交流，如私信，请文明礼貌用语😉
 - 💡 部署成功了？来公众号说说感受吧，你的点赞和留言都是我继续更新的动力~
 
-
-<div align="center">
-
-|公众号关注 |
-|:---:|
-| <img src="_image/weixin.png" width="400" title="硅基茶水间"/> |
-
-</div>
-
-<br>
-
----
-
-## 🪄 赞助商
-
-> **302.AI** 是按用量付费的企业级 AI 资源平台      
-> 提供市场上最新、最全面的 **AI 模型**和 **API**，以及多种开箱即用的在线 AI 应用
-
-<div align="center">
-
-<a href="https://share.302.ai/mEOUzG" target="_blank">
-  <img src="_image/banner-302ai-zh.jpg" alt="302.AI" width="800"/>
-</a>
-</div>
-
-### 💰 302.AI 新用户福利
-
-> 领取的 1 美元可用于调用各种 AI 大模型（如 Claude、GPT 等）      
-> 本项目 AI 分析功能需配置大模型使用，配置教程详见 [AI 智能分析](#-ai-智能分析)
-
-[![注册领取](https://img.shields.io/badge/注册_302.AI-领取_1_美元免费测试额度-FF6B6B?style=for-the-badge&logo=openai&logoColor=white)](https://share.302.ai/mEOUzG)
-
-<details id="sponsor-tutorial">
-<summary>👉 点击展开：<b>302.AI 使用教程</b></summary>
-
-
-### 第 1 步：获取 API Key
-
-1. 注册后，进入右上角 [管理后台](https://302.ai/dashboard/overview)
-2. 点击左侧 [API Keys](https://302.ai/apis/list)
-3. 在页面下方找到默认 API KEY，**点击眼睛图标查看**，然后复制
-   （⚠️ 注意：不是点最右侧的复制按钮）
-
-
-### 第 2 步：在 Cherry Studio 中配置
-
-1. 打开 Cherry Studio，进入设置
-2. 模型提供商选择 **"302.AI"**
-3. 粘贴刚才复制的 API Key
-4. 点击**管理**，现在可以使用所有支持的 AI 模型了
-
-**提示：** Cherry Studio 已原生集成 302.AI，配置后即可看到完整模型列表。
-
-
-**Q: 1 美元免费额度能用多久？**    
-A: 取决于使用频率和模型选择，可以进行多次测试体验。
-
-**Q: 免费额度用完后怎么办？**    
-A: 可以按需充值，按量付费。目前大厂模型价格已相对亲民。
-
-</details>
-
 ---
 
 <br>
@@ -2209,9 +2147,6 @@ flowchart TD
     style O fill:#e1bee7
     style Q fill:#c8e6c9
 ```
-
-[![Star History Chart](https://api.star-history.com/svg?repos=sansan0/TrendRadar&type=Date)](https://www.star-history.com/#sansan0/TrendRadar&Date)
-
 
 ## 📄 许可证
 
